@@ -10,6 +10,7 @@ spec:
           # git generator, 'child' #1
           - git:
               repoURL: https://github.com/vitalii-codefresh/gitops-cert-level-2-examples.git
+              revision: HEAD
               directories:
                 - path: application-sets/example-apps/*
           # cluster generator, 'child' #2
