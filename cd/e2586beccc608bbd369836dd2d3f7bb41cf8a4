@@ -1,0 +1,14 @@
+application-sets/my-application-sets/many-apps-many-cluster.yml
+  h_51acfbafc7319b 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "cde2586beccc608bbd369836dd2d3f7bb41cf8a4",
+  "prompts": {},
+  "humans": {
+    "h_51acfbafc7319b": {
+      "author": "vitaliichyrka <vitalii.chyrka@codefresh.io>"
+    }
+  }
+}
