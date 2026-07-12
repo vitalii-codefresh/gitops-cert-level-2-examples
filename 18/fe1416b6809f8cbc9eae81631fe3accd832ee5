@@ -1,0 +1,28 @@
+sync-hooks-waves/06-waves-and-hooks/enable-alerts.yml
+  h_51acfbafc7319b 6-8
+sync-hooks-waves/06-waves-and-hooks/cleanup.yml
+  h_51acfbafc7319b 8-10
+sync-hooks-waves/05-sync-waves/cleanup.yml
+  h_51acfbafc7319b 7-8
+sync-hooks-waves/06-waves-and-hooks/slack-notify.yml
+  h_51acfbafc7319b 6-8
+sync-hooks-waves/06-waves-and-hooks/grafana-notify.yml
+  h_51acfbafc7319b 6-8
+sync-hooks-waves/06-waves-and-hooks/smoke-tests.yml
+  h_51acfbafc7319b 6-8
+sync-hooks-waves/06-waves-and-hooks/db-upgrade.yml
+  h_51acfbafc7319b 8-10
+sync-hooks-waves/06-waves-and-hooks/disable-alerts.yml
+  h_51acfbafc7319b 6-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "18fe1416b6809f8cbc9eae81631fe3accd832ee5",
+  "prompts": {},
+  "humans": {
+    "h_51acfbafc7319b": {
+      "author": "vitaliichyrka <vitalii.chyrka@codefresh.io>"
+    }
+  }
+}
