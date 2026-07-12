@@ -1,0 +1,26 @@
+image-updater/example-app/envs/qa/version.yml
+  h_51acfbafc7319b 11
+image-updater/example-app/envs/staging/version.yml
+  h_51acfbafc7319b 11
+image-updater/applications/semver.yml
+  h_51acfbafc7319b 7,12
+image-updater/example-app/base/deployment.yml
+  h_51acfbafc7319b 21
+image-updater/source-code/codefresh.yml
+  h_51acfbafc7319b 14
+image-updater/source-code/go.mod
+  h_51acfbafc7319b 1
+image-updater/applications/always-latest.yml
+  h_51acfbafc7319b 7,13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "a028e5fa4303d0344ede5c74d3bce1cd221533d9",
+  "prompts": {},
+  "humans": {
+    "h_51acfbafc7319b": {
+      "author": "vitaliichyrka <vitalii.chyrka@codefresh.io>"
+    }
+  }
+}
