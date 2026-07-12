@@ -1,0 +1,14 @@
+sync-hooks-waves/06-waves-and-hooks/grafana-notify.yml
+  h_51acfbafc7319b 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "a5cab430d1ad019e1f8c50f3cf806e29b7153942",
+  "prompts": {},
+  "humans": {
+    "h_51acfbafc7319b": {
+      "author": "vitaliichyrka <vitalii.chyrka@codefresh.io>"
+    }
+  }
+}
