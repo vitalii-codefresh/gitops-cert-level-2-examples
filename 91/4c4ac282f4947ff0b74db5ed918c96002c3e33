@@ -1,0 +1,14 @@
+sync-hooks-waves/03-postsync-cleanup/cleanup.yml
+  h_51acfbafc7319b 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "914c4ac282f4947ff0b74db5ed918c96002c3e33",
+  "prompts": {},
+  "humans": {
+    "h_51acfbafc7319b": {
+      "author": "vitaliichyrka <vitalii.chyrka@codefresh.io>"
+    }
+  }
+}
